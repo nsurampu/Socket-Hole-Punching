@@ -10,4 +10,4 @@
 The current DropBox LAN implementation is restriced by ***subnetting***. The current project attempts to build an application that helps overcome the subnetting problem, as well as build a system for managing it within a distributed system.
 
 The test bench results can be found here: [Wireshark Sessions](https://drive.google.com/drive/u/0/folders/1PjKkCstlYYz0C8Qu5fj8oYx-JAlB2Jlh)
-The introductory report can be found here: ![Report](https://github.com/nsurampu/Socket-Hole-Punching/blob/master/NP%20Report.pdf)
+<br>The introductory report can be found here: ![Report](https://github.com/nsurampu/Socket-Hole-Punching/blob/master/NP%20Report.pdf)
